@@ -78,7 +78,6 @@ top3 = np.argsort(data["Profit"])[-3:][::-1]
 print("top 3 profitable product:",data["Product_Name"][top3])
 
 #17. Calculate the profit percentage for each product:
-#18. Profit_Percentage = (Profit / Sales_Amount) * 100
 pro = data['Profit'].astype('i')
 
 print(pro)
