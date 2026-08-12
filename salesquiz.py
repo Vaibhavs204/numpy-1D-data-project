@@ -85,11 +85,11 @@ sal =  data['Sales_Amount'].astype('i')
 profit_percentage=(data['Profit'] / data['Sales_Amount'].astype('i')) * 100
 
 print("profit percentage :",profit_percentage)
-#19. Increase all Unit_Price values by 15% using NumPy operations.
+#18. Increase all Unit_Price values by 15% using NumPy operations.
 data['Unit_Price'] = data['Unit_Price' ].astype(float) * 1.15
 
 print("increased all unit price by 15%:",data['Unit_Price'])
-#20. Find the city that generated the highest total sales.
+#19. Find the city that generated the highest total sales.
 
 sales = data['Sales_Amount'].astype(float)
 cities = data['City']
