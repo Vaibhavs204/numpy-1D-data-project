@@ -1,0 +1,11 @@
+Invoice_ID,Date,Year,Month,Product_ID,Product_Name,Category,Quantity,Unit_Price,Discount(%),GST(%),Sales_Amount,Profit,Payment_Mode,City
+INV001,2024-01-05,2024,January,P101,Laptop,Electronics,2,55000,10,18,99000,18000,Credit Card,Mumbai
+INV002,2024-01-08,2024,January,P102,Wireless Mouse,Electronics,5,800,5,18,3800,900,UPI,Pune
+INV003,2024-01-12,2024,January,P103,Office Chair,Furniture,3,6500,8,18,17940,4200,Cash,Delhi
+INV004,2024-02-02,2024,February,P104,Water Bottle,Accessories,10,350,0,12,3500,900,Cash,Chennai
+INV005,2024-02-10,2024,February,P105,Keyboard,Electronics,4,1200,5,18,4560,1100,UPI,Bengaluru
+INV006,2024-02-18,2024,February,P106,Monitor,Electronics,2,14000,10,18,25200,4500,Credit Card,Hyderabad
+INV007,2024-03-04,2024,March,P107,Desk,Furniture,2,8500,7,18,15810,3200,Debit Card,Ahmedabad
+INV008,2024-03-15,2024,March,P108,Notebook,Stationery,25,80,0,12,2000,700,Cash,Jaipur
+INV009,2024-03-20,2024,March,P109,Printer,Electronics,1,16500,8,18,15180,3100,UPI,Kolkata
+INV010,2024-04-05,2024,April,P110,Pen Drive,Electronics,8,650,5,18,4940,1200,Credit Card,Surat
